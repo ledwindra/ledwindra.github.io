@@ -5,8 +5,8 @@ excerpt: "About Me..."
 
 If coding is not for fun, then what is it for? For money? Sure, because not having it can totally be not fun.
 
-- 🖥 I’m currently working as a Data Engineer at a [<strong>financial technology company</strong>](https://www.ovo.id/about),
-- 📊 I was as a Research Associate at [<strong>an institution</strong>](https://www.povertyactionlab.org/) where the co-founders won [<strong>Nobel Prize in Economics in 2019</strong>](https://www.nobelprize.org/prizes/economic-sciences/2019/press-release/),
+- 🖥 I’m currently working as a Data Engineer at a [<strong>OVO</strong>](https://www.ovo.id/about),
+- 📊 I was as a Research Associate at [<strong>J-PAL Southeast Asia</strong>](https://www.povertyactionlab.org/)
 - ♥ Topics that I'm interested in:
   - 👩🏽‍💻 Diversity in tech and would be glad if I could engage in the activity to support this cause. 🌈
   - 📢 Development economics and research for data-driven public policy.

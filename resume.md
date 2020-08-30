@@ -13,14 +13,17 @@ B.Comm. in Accounting
 `Jan 2019 - Current`
 __Data Engineer__, OVO
 
-- Task
-- Task
+- Automate data-pipeline such as extract, transform, load (ETL) from source database to datamart;
+- Generate reports for both internal and external purposes;
+- Write unit test programs to ensure good data quality;
+- Write documentation so that each project can be understood/legacied to others.
 
 `Aug - Dec 2018`
 __Data Analyst__, Swisscontact Indonesia
 
-- Task
-- Task
+- Conducted research on cacao plantation and farmers in Indonesia;
+- Field study to cacao plantation;
+- Handled data analysis and visualizations.
 
 `Aug - Dec 2018`
 __Data Analyst__, Swisscontact Indonesia
@@ -31,13 +34,12 @@ __Data Analyst__, Swisscontact Indonesia
 `Mar 2017 - Mar 2018`
 __Research Associate__, The Abdul Latif Jameel Poverty Action Lab (J-PAL)
 
-- Task
-- Task
-
 `Sep 2016 - Dec 2016`
 __Intern__, The Abdul Latif Jameel Poverty Action Lab (J-PAL)
 
-- Task
-- Task
+- Built study design (questionnaire, background research);
+- Fostered partnership with external parties (survey firm, government agency);
+- Conducted field study and monitored enumerators;
+- Handled data management and analysis.
 
 Last updated: Aug 2020

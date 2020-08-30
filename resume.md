@@ -1,9 +1,6 @@
 ---
 layout: resume
 ---
-## Currently
-
-Current Position Description
 
 ## Education
 
@@ -43,8 +40,4 @@ __Intern__, The Abdul Latif Jameel Poverty Action Lab (J-PAL)
 - Task
 - Task
 
-### Footer
-
 Last updated: Aug 2020
-
-

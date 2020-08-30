@@ -25,12 +25,6 @@ __Data Analyst__, Swisscontact Indonesia
 - Field study to cacao plantation;
 - Handled data analysis and visualizations.
 
-`Aug - Dec 2018`
-__Data Analyst__, Swisscontact Indonesia
-
-- Task
-- Task
-
 `Mar 2017 - Mar 2018`
 __Research Associate__, The Abdul Latif Jameel Poverty Action Lab (J-PAL)
 

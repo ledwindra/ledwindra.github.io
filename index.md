@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "Lukman"
 ---
 
 If coding is not for fun, then what is it for? For money? Sure, because not having it can totally be not fun.

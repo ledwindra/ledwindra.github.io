@@ -7,64 +7,44 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
+`2012 - 2017`
+__Universitas Indonesia__
+B.Comm. in Accounting
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+`Jan 2019 - Current`
+__Data Engineer__, OVO
 
 - Task
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`Aug - Dec 2018`
+__Data Analyst__, Swisscontact Indonesia
 
 - Task
 - Task
 
+`Aug - Dec 2018`
+__Data Analyst__, Swisscontact Indonesia
 
+- Task
+- Task
 
-<!-- ### Footer
+`Mar 2017 - Mar 2018`
+__Research Associate__, The Abdul Latif Jameel Poverty Action Lab (J-PAL)
 
-Last updated: May 2013 -->
+- Task
+- Task
+
+`Sep 2016 - Dec 2016`
+__Intern__, The Abdul Latif Jameel Poverty Action Lab (J-PAL)
+
+- Task
+- Task
+
+### Footer
+
+Last updated: Aug 2020
 
 
